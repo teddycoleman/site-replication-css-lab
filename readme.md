@@ -38,6 +38,14 @@ The starter-code contains all the files, images, and text content needed to crea
 
 #### Deliverable
 
+Grab images from an appropriately complex website and try to build their homepage __without copying their CSS__. Here are some suggestions:
+
+- [Instagram (before login)](https://www.instagram.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
+- [KFC.com](https://www.kfc.com/)
+
+Really good at CSS? Find something more complex, like [uniqlo](http://www.uniqlo.com/us/) and blow our minds.
+
 Please take a screenshot of your results and share them in Slack! They should look something like this:
 
 ![Instagram lab Screenshot](https://i.imgur.com/DQ9fk1u.png)
