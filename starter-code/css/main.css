@@ -8,3 +8,67 @@ body {
   font: 200 16px/1.5 "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
 }
+
+#background {
+	background-image: url("/Users/teddycoleman/wdi-homework/in-class-work/site-replication-css-lab/starter-code/images/bgtile.png");
+    width: 100%;
+}
+
+.container{
+	position: relative;
+	top: 100px;
+	left: 100px;
+	display: inline-block;
+}
+
+.container2{
+	position: fixed;
+	top: 100px;
+	left: 500px;
+    display: inline-block;
+}
+
+#phones{
+    display: inline-block;
+}
+
+#brand{
+	display: inline-block;
+	float: left;
+}	
+
+
+#chunk {
+    position: fixed;
+    width: 500px;
+    float: left;
+    top: 200px;
+   	left: 500px;
+    background-color: white;
+    border-radius:  8px;
+    padding: 25px;
+}
+
+
+.bottom {
+    display: inline;
+    padding:  10px;
+}
+
+.clearfix {
+ /*overflow: auto;*/
+ content: "";
+ display: table;
+ clear: both;
+}
+li{
+	list-style: none;
+	display: inline-block;
+	margin: 10px;
+}
+
+
+footer {text-align: center;
+    padding: 150px;
+    clear: both;
+    }
